@@ -22,6 +22,7 @@ Siapin alat dan bahannya.
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
+> git clone https://github.com/rbss420/R1BA5BOT
 > cd R1BA5BOT
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr ya cuy...done cuk
