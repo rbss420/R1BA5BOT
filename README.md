@@ -1,4 +1,4 @@
-# 🤖Naga-Bot🤖
+# 🤖RIBASBOT🤖
 BOT WHATSAPP TERMUX ONLY BY Sekaii Mod
 
 ### Alat dan Bahan
@@ -72,5 +72,5 @@ Jika ada kendala hubungi kami..
 BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (NFQ SQUAD)
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://youtube.com/channel/UC7di1zjUfd3h4A58a2uscIw) 
-* [`WhatsApp Admin `](https://wa.me/6283807588767)
+* [`Youtube Admin`](https://youtube.com/channel/UCVoeo63MfuTBPXlbj-ldX3Q) 
+* [`WhatsApp Admin `](https://wa.me/6282193030283)
